@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @beksayfullaev
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m @Oybek
 - 🌱 I’m currently learning Python
 
 <!---
